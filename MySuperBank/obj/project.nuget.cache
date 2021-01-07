@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jz+jvfPSZ1aOZ6s9ebPh52SdU9I8M/CoQct/NM3N8VruBNA2GiJdUSMG2r+pdgHLtZjQQiytl+4uI+0M+y7UtA==",
+  "success": true,
+  "projectFilePath": "/Users/chuwilliam/MySuperBank/MySuperBank/MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "/Users/chuwilliam/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/5.0.1/microsoft.netcore.app.runtime.osx-x64.5.0.1.nupkg.sha512",
+    "/Users/chuwilliam/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/5.0.1/microsoft.aspnetcore.app.runtime.osx-x64.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

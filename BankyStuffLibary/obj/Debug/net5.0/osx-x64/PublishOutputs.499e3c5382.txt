@@ -1,0 +1,3 @@
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/osx-x64/publish/BankyStuffLibary.dll
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/osx-x64/publish/BankyStuffLibary.deps.json
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/osx-x64/publish/BankyStuffLibary.pdb

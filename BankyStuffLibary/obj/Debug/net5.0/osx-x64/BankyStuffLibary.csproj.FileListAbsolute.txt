@@ -1,0 +1,11 @@
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/osx-x64/BankyStuffLibary.deps.json
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/osx-x64/BankyStuffLibary.dll
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/osx-x64/ref/BankyStuffLibary.dll
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/osx-x64/BankyStuffLibary.pdb
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/osx-x64/BankyStuffLibary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/osx-x64/BankyStuffLibary.AssemblyInfoInputs.cache
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/osx-x64/BankyStuffLibary.AssemblyInfo.cs
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/osx-x64/BankyStuffLibary.csproj.CoreCompileInputs.cache
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/osx-x64/BankyStuffLibary.dll
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/osx-x64/ref/BankyStuffLibary.dll
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/osx-x64/BankyStuffLibary.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MySuperBank/1.0.0": {
+        "dependencies": {
+          "BankyStuffLibary": "1.0.0"
+        },
+        "runtime": {
+          "MySuperBank.dll": {}
+        }
+      },
+      "BankyStuffLibary/1.0.0": {
+        "runtime": {
+          "BankyStuffLibary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MySuperBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankyStuffLibary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

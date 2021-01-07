@@ -1,0 +1,12 @@
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/BankyStuffLibary.deps.json
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/BankyStuffLibary.dll
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/ref/BankyStuffLibary.dll
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/bin/Debug/net5.0/BankyStuffLibary.pdb
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/BankyStuffLibary.csprojAssemblyReference.cache
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/BankyStuffLibary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/BankyStuffLibary.AssemblyInfoInputs.cache
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/BankyStuffLibary.AssemblyInfo.cs
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/BankyStuffLibary.csproj.CoreCompileInputs.cache
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/BankyStuffLibary.dll
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/ref/BankyStuffLibary.dll
+/Users/chuwilliam/MySuperBank/BankyStuffLibary/obj/Debug/net5.0/BankyStuffLibary.pdb
